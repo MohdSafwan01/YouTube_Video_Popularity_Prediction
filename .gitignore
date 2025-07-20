@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
-*.pkl
+# *.pkl
+# outputs/
 outputs/plots/
 outputs/predictions/
 *.ipynb_checkpoints
