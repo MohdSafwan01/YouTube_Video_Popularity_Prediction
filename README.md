@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-👉 [Click here to use the Web App]([https://mohdsafwan01-youtube-video-popularity-prediction.streamlit.app](https://youtubevideopopularityprediction-jqyhjrgfjqyz5rebmnqdiq.streamlit.app/))
+👉 [Click here to use the Web App](https://youtubevideopopularityprediction-jqyhjrgfjqyz5rebmnqdiq.streamlit.app/)
 
 ---
 
